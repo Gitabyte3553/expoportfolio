@@ -34,6 +34,13 @@ img{display:block; margin:0; padding:0; border:0;}
 .imgl{margin:0 8px 8px 0; clear:left;}
 .imgr{margin:0 0 8px 8px; clear:right;}
 
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
 /* ----------------------------------------------Wrapper------------------------------------- */
 
 div.wrapper{display:block; width:100%; margin:0; padding:0; text-align:left;}
