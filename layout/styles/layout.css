@@ -71,6 +71,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #latest{padding:20px 0 0 0;}
 #latest .fl_left{display:block; float:left; width:575px; height:300px;}
 #latest .fl_right{display:block; float:right; width:360px; height:280px; padding:10px; color:#333333; background-color:#FDC609;}
+#latest .fl_right_shatteredsails{display:block; float:right; width:360px; height:280px; padding:10px; color:#333333; background-color:#8e9c9e;}
 #latest .fl_right h2, #latest .fl_right p{margin:0 0 12px 0; padding:0; border:none; line-height:normal;}
 #latest .fl_right h2{font-size:30px;}
 #latest .fl_right p{line-height:2.2em;}
